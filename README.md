@@ -35,7 +35,9 @@ The repo contains the following files under the `1-blog` folder.
 └── requirements.txt
 ```
 
-`README.md` is this file, `titanic.ipynb` is the python notebook and `train.csv` contains the dataset from Titanic.
+- `README.md` is this file. Project motivation is given at the beginning and a summary is given at the end of this README.
+- `titanic.ipynb` is the python notebook where all the analyses are done.
+- `train.csv` contains the dataset from Kaggle.
 
 `requirements.txt` contains the exact virtualenv setup that was used. However not all libraries were used in this project.
 
